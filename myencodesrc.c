@@ -1,7 +1,7 @@
 /* 
 Authors: Darren, Wei Cheng
 
-File Name: myencode.c 
+File Name: myencodesrc.c 
 All Files: myencode.c, myencodehdr.h, myencodesrc.c 
 To compile (without gdb), type "gcc myencode.c myencodesrc.c -o myencode -Wall" */
 
