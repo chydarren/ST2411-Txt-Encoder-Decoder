@@ -16,7 +16,7 @@ For decoding, the program will just reverse the encoding scheme and convert a se
 
 ## Usage
 
-Clone this repository in any directory. Next, `gcc myencode.c myencodesrc.c -o myencode -Wall` and type `./myencode` to view usage instructions.
+Clone this repository into any directory. Next, `gcc myencode.c myencodesrc.c -o myencode -Wall` and type `./myencode` to view usage instructions.
 
 ## Disclaimer
 
