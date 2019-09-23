@@ -12,7 +12,7 @@ For decoding, the program will just reverse the encoding scheme and convert a se
 
 ## Preview
 
-<img src="preview.jpg" width="800">
+<img src="preview.jpg" width="700">
 
 ## Usage
 
