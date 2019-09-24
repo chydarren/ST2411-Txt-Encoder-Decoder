@@ -16,7 +16,13 @@ For decoding, the program will just reverse the encoding scheme and convert a se
 
 ## Usage
 
-Clone this repository into any directory. Next, `gcc myencode.c myencodesrc.c -o myencode -Wall` and type `./myencode` to view usage instructions.
+1. Clone this repository into any directory. 
+
+2. Enter the "txt-encoder-decoder" directory by typing `cd txt-encoder-decoder`.
+
+3. Compile the program by typing `gcc myencode.c myencodesrc.c -o myencode -Wall`. 
+
+4. Run the program by typing `./myencode`.
 
 ## Disclaimer
 
